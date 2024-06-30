@@ -1,0 +1,5 @@
+/* Custom styles for the slider */
+.slider {
+    display: flex;
+    transition: transform 0.5s ease-in-out;
+  }
